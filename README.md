@@ -43,43 +43,42 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 유튜브 요약 영상 업로드: 2021-04-08
     - **Term Project Meeting (Round 2)**
       - 4조, 5조, 6조
-- **2021-04-08 (Thu): Term Project Meeting (Round 2)**
-    - 7조, 8조, 9조
 - **2021-04-13 (Tue): Topic Discussion and QA (Topic 7)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-06
     - 질문에 대한 수강생 답변 등록: 2021-04-11
     - 유튜브 요약 영상 업로드: 2021-04-15
 - **2021-04-15 (Thu): Term Project Meeting (Round 2)**
-    - 10조, 11조, 12조
+    - 7조, 8조, 9조
 - **2021-04-20 (Tue): Topic Discussion and QA (Topic 8 - Seq2Seq Learning & Transformer)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-13
     - 질문에 대한 수강생 답변 등록: 2021-04-18
     - 유튜브 요약 영상 업로드: 2021-04-22
-- **2021-04-22 (Thu): Term Project Meeting (Round 3)**
-    - 1조, 2조, 3조
+- **2021-04-22 (Thu): Term Project Meeting (Round 2)**
+    - 10조, 11조, 12조
 - **2021-04-27 (Tue): Topic Discussion and QA (Topic 8 - ELMo, GPT, BERT)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-20
     - 질문에 대한 수강생 답변 등록: 2021-04-25
     - 유튜브 요약 영상 업로드: 2021-04-29
 - **2021-04-29 (Thu): Term Project Meeting (Round 3)**
-    - 4조, 5조, 6조
+    - 1조, 2조, 3조, 4조
 - **2021-05-04 (Tue): Topic Discussion and QA (Topic 8 - GPT-2, Transformer to T5, GPT-3)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-27
     - 질문에 대한 수강생 답변 등록: 2021-05-01
     - 유튜브 요약 영상 업로드: 2021-05-06
 - **2021-05-06 (Thu): Term Project Meeting (Round 3)**
-    - 7조, 8조, 9조
+    - 5조, 6조, 7조, 8조
 - **2021-05-11 (Tue): Topic Discussion and QA (Topic 9 - Document Classification)**
     - 동영상 시청 완료 및 질문 등록: 2021-05-04
     - 질문에 대한 수강생 답변 등록: 2021-05-09
     - 유튜브 요약 영상 업로드: 2021-05-13
 - **2021-05-13 (Thu): Term Project Meeting (Round 3)**
-    - 10조, 11조, 12조
+    - 9조, 10조, 11조, 12조
 - **2021-05-18 (Tue): Topic Discussion and QA (Topic 10 - Sentiment Analysis)**
     - 동영상 시청 완료 및 질문 등록: 2021-05-11
     - 질문에 대한 수강생 답변 등록: 2021-05-16
     - 유튜브 요약 영상 업로드: 2021-05-20
 - **2021-05-20 (Thu): Term Project 중간발표**
+
 
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
@@ -149,6 +148,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Topic modeling overview & Latent Semantic Analysis (LSA), Probabilistic Latent Semantic Analysis: pLSA [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LSA_pLSA.pdf)], [[Video](https://www.youtube.com/watch?v=J1ri0EQnUOg&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=14)] **(2021-04-06)**
 * LDA: Document Generation Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Generation.pdf)], [[Video](https://www.youtube.com/watch?v=WR2On5QAqJQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=15)] **(2021-04-06)**
 * LDA Inference: Collapsed Gibbs Sampling, LDA Evaluation [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://www.youtube.com/watch?v=iwMSCsiL6wQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=16)] **(2021-04-06)**
+* Q & A Session [[Slide](https://www.dropbox.com/s/cciia32y7buhzre/%282021%29%2007_Topic%20Modeling_QA.pdf?dl=0)]
 * Reading Materials
   * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391. ([PDF](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf))
   * Dumais, S. T. (2004). Latent semantic analysis. Annual review of information science and technology, 38(1), 188-230.
@@ -169,7 +169,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 - GPT: Generative Pre-Training of a Language Model [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-4_GPT.pdf)], [[Video](https://www.youtube.com/watch?v=o_Wl29aW5XM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=20)] **(2021-04-20)**
 - BERT: Bidirectional Encoder Representations from Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-5_BERT.pdf)], [[Video](https://www.youtube.com/watch?v=IwtexRHoWG0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=21)] **(2021-04-20)**
   - _(Optional) Semantics-aware BERT for Language Understanding_ [[Video (발표자: 김명섭)](https://youtu.be/vFXGvGMKesM)]
-- GPT-2: Language Models are Unsupervised Multitask Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://youtu.be/8hd2Q-3-BsQ)] **(2021-04-27)**
+- GPT-2: Language Models are Unsupervised Multitask Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-6_GPT2.pdf)], [[Video](https://youtu.be/8hd2Q-3-BsQ)] **(2021-04-27)**
 - Transformer to T5 (XLNet, RoBERTa, MASS, BART, MT-DNN,T5) [[Video (발표자: 이유경)](https://youtu.be/v7diENO2mEA)] **(2021-04-27)**
 - GPT-3: Language Models are Few Shot Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/GPT-3.pdf)], [[Video](https://youtu.be/xNdp3_Zrr8Q)] **(2021-04-27)**
 - _(Optional) How Contextual are Contextualized Word Representations? Comparing the Geoetry of BERT, ELMo, and GPT-2 Embeddings_ [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/Transformer%20to%20T5_final_%EC%9D%B4%EC%9C%A0%EA%B2%BD.pdf)], [[Video (발표자: 이유경)](https://youtu.be/d05ype2cVQc)]
@@ -190,7 +190,6 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2019). Exploring the limits of transfer learning with a unified text-to-text transformer. arXiv preprint arXiv:1910.10683. ([PDF](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf))
   - Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. arXiv preprint arXiv:2005.14165. ([PDF](https://arxiv.org/pdf/2005.14165.pdf))
   
-
 ## Topic 9: Document Classification
 - Document classification overview, Vector Space Models (Naive Bayesian Classifier, k-Nearese Neighbor Classifier) [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/09%20Document%20Classification/09-1_Document%20Classification%20-%20Vector%20Space%20Models.pdf)], [[Video](https://www.youtube.com/watch?v=0Cd1bbD1CUE&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=23)] **(2021-05-04)**
 - (Optional) Other VSM-based classsification (Lecture videos are taken from IMEN415 (Multivariate Data Analysis for Undergraudate Students @Korea University))
@@ -210,7 +209,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 10: Sentiment Analysis
 - Architecture of sentiment analysis [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_1_Sentiment%20Analysis%20Overview.pdf)], [[Video](https://www.youtube.com/watch?v=5ZC37vpaU-4)] **(2021-05-11)**
-- Lexicon-based approach [[Slide](https://github.com/pilsu ng-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_2_Sentiment%20Analysis_Lexicon-based%20Approach.pdf)], [[Video](https://www.youtube.com/watch?v=_YkDv1EFgwU)] **(2021-05-11)**
+- Lexicon-based approach [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_2_Sentiment%20Analysis_Lexicon-based%20Approach.pdf)], [[Video](https://www.youtube.com/watch?v=_YkDv1EFgwU)] **(2021-05-11)**
 - Machine learning-based approach [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_3_Sentiment%20Analysis_ML-based%20Approach.pdf)], [[Video](https://youtu.be/9roNxTSIHus)] **(2021-05-11)**
 - Reading materials
   - Hamilton, W. L., Clark, K., Leskovec, J., & Jurafsky, D. (2016, November). Inducing domain-specific sentiment lexicons from unlabeled corpora. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing (Vol. 2016, p. 595). NIH Public Access. ([PDF](https://nlp.stanford.edu/pubs/hamilton2016inducing.pdf))
@@ -218,7 +217,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 11: Text Summarization
 - Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)], [[Video](https://youtu.be/25TEdaQPqQY)]
-- Extractive Summarization
+- Extractive Summarization (TextRank, LexRank, DivRank) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Graph-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/Jaa3DmhJ5CM)]
   - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
   - _(Optional) Extractive summarization as Text Matching_ [[Video (발표자: 이유경)](https://youtu.be/8E2Ia4Viu94)]
 - Abstractive Summarization
@@ -227,7 +226,10 @@ Unstructured Data Analysis (Graduate) @Korea University
 - Reading materials
   - Lin, C. Y. (2004, July). Rouge: A package for automatic evaluation of summaries. In Text summarization branches out (pp. 74-81). ([PDF](https://www.aclweb.org/anthology/W04-1013.pdf))
   - Ganesan, K. (2018). Rouge 2.0: Updated and improved measures for evaluation of summarization tasks. arXiv preprint arXiv:1803.01937. ([PDF](https://arxiv.org/pdf/1803.01937.pdf))
-
+  - Mihalcea, R., & Tarau, P. (2004, July). Textrank: Bringing order into text. In Proceedings of the 2004 conference on empirical methods in natural language processing (pp. 404-411). ([PDF](https://www.aclweb.org/anthology/W04-3252.pdf))
+  - Erkan, G., & Radev, D. R. (2004). Lexrank: Graph-based lexical centrality as salience in text summarization. Journal of artificial intelligence research, 22, 457-479. ([PDF](https://www.jair.org/index.php/jair/article/view/10396/24901))
+  - Mei, Q., Guo, J., & Radev, D. (2010, July). Divrank: the interplay of prestige and diversity in information networks. In Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 1009-1018). ([PDF](https://dl.acm.org/doi/pdf/10.1145/1835804.1835931))
+   
 ## Topic 12: Question and Answering
 - Question and Answering (CS224N) [[Video (발표자: 조규원)](https://youtu.be/7u6Ys7I0z2E)]
 - SQuAD: 100,000+ questions for machine comprehension of text [[Video (발표자: 김형석)](https://youtu.be/CbY_xcBGR20)]
